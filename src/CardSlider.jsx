@@ -32,13 +32,9 @@ const CardSlider = () => {
             
             <div className="text">
                 <h2>Queijos</h2>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat recusandae accusamus veniam beatae voluptatum cumque eos est modi, ipsum error atque nisi sequi nam dolores autem fuga ipsa quaerat rem.</p> 
-            </div>
-            <div className="marcas">
-                <span style={{ "--i": 1 }}>Cambuquira</span>
-                <span style={{ "--i": 2 }}>Crioulo</span>
-                <span style={{ "--i": 3 }}>Diminas</span>
-                <span style={{ "--i": 4 }}>E mais...</span>
+                <p>Descubra nossa seleção de queijos,
+                    com opções que atendem todos os gostos.
+                    Ideal para petiscos, pratos sofisticados ou aquele lanche especial!</p>
             </div>
         </div>
 
@@ -51,13 +47,9 @@ const CardSlider = () => {
             
             <div className="text">
                 <h2>Latícinios</h2>
-                <p>Lorgdfdfgdfgfdg Fugiat recusandae accusamus veniam beatae voluptatum cumque eos est modi, ipsum error atque nisi sequi nam dolores autem fuga ipsa quaerat rem.</p> 
-            </div>
-            <div className="marcas">
-                <span style={{ "--i": 1 }}>Crioulo</span>
-                <span style={{ "--i": 2 }}>Tirol</span>
-                <span style={{ "--i": 3 }}>Polenghi</span>
-                <span style={{ "--i": 4 }}>E mais...</span>
+                <p>Nossos laticínios são produzidos com os melhores ingredientes,
+                    garantindo frescor e sabor. Oferecemos opções ideais para sua casa ou comércio.
+                    Qualidade e confiança em cada produto!</p>
             </div>
         </div>
 
@@ -70,11 +62,9 @@ const CardSlider = () => {
             
             <div className="text">
                 <h2>Enlatados</h2>
-                <p>Lorgdfdfgdfgfdg Fugiat recusandae accusamus veniam beatae voluptatum cumque eos est modi, ipsum error atque nisi sequi nam dolores autem fuga ipsa quaerat rem.</p> 
-            </div>
-            <div className="marcas">
-                <span style={{ "--i": 1 }}>Gomes da Costa</span>
-                <span style={{ "--i": 2 }}>88</span>
+                <p>Praticidade e sabor em cada refeição. 
+                    Diversas opções para tornar seu dia a dia mais fácil sem
+                    perder o sabor e a qualidade.</p>
             </div>
         </div>
 
@@ -87,12 +77,9 @@ const CardSlider = () => {
             
             <div className="text">
                 <h2>Congelados</h2>
-                <p>Lorgdfdfgdfgfdg Fugiat recusandae accusamus veniam beatae voluptatum cumque eos est modi, ipsum error atque nisi sequi nam dolores autem fuga ipsa quaerat rem.</p> 
-            </div>
-            <div className="marcas">
-                <span style={{ "--i": 1 }}>Seara</span>
-                <span style={{ "--i": 2 }}>Massa Leve</span>
-                <span style={{ "--i": 3 }}>Perdigão</span>
+                <p>Os congelados oferecem soluções rápidas para sua refeição. 
+                    Todos os produtos são cuidadosamente selecionados para garantir
+                    sabor e qualidade com praticidade.</p>
             </div>
         </div>
 
